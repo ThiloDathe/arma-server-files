@@ -1,0 +1,6 @@
+# create ace arsenal
+[_this, player, true] call ace_arsenal_fnc_openBox
+# position relative attaching
+["object to attach", "object to attach to", visual] call BIS_fnc_attachToRelative;
+# infinite ammo
+this addEventHandler ["Fired",{(_this select 0) setVehicleAmmo 1}];

@@ -28,3 +28,7 @@
 ~~change trauma heal to bandage~~
 - change melee to kill
 ~~DUI HUD: remove nametags and group list~~
+- fix players unable to regain consciousness after fatal bloodloss
+- move FOB closed to AO on newest map
+- replace drongo units with custom faction
+- add loadout restrictions
