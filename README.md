@@ -29,6 +29,15 @@
 - change melee to kill
 ~~DUI HUD: remove nametags and group list~~
 - fix players unable to regain consciousness after fatal bloodloss
-- move FOB closed to AO on newest map
-- replace drongo units with custom faction
+    seems to be a hidden mechanic that then requires the use of a PAK
+~~move FOB closed to AO on newest map~~
+~~replace drongo units with custom faction~~
 - add loadout restrictions
+- fix relative attachTo vehicles exploding in game due to collision
+- fix HAL placing SENTRY waypoints
+- fix units being unresponsive to orders and information
+- Reduce the amount of damage AI can take
+
+# mission notes
+- .Altis is 11 versions behind .rhspkl
+- all maps have mission specific changes that won't be merged
